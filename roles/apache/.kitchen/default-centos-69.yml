@@ -1,0 +1,9 @@
+---
+username: kitchen
+ssh_key: "/Ansible/apache-configuration-ci/roles/apache/.kitchen/docker_id_rsa"
+image_id: 8eb74e143aca
+container_id: a4fa916f41193e7d6f5707c9cf409af5210a55cc0eefc2304d9377974aca811e
+hostname: localhost
+port: 32769
+last_action: converge
+last_error: 
